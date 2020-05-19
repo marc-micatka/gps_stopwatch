@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">GPS Stopwatch</string>
-
-    <string name="just_run">Just Run</string>
-    <string name="workouts">View Workouts</string>
-    <string name="history">View History</string>
-
-</resources>
